@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "28eb2" >> $(dirname $0)/tmp.txt

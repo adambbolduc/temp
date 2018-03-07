@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "91u22" >> $(dirname $0)/tmp.txt

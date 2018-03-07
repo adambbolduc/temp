@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "i2ndo" >> $(dirname $0)/tmp.txt

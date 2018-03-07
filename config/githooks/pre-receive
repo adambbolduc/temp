@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "osd23" >> $(dirname $0)/tmp.txt

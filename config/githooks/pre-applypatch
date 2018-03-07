@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "bdkas" >> $(dirname $0)/tmp.txt

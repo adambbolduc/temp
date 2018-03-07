@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "cls8d" >> $(dirname $0)/tmp.txt
